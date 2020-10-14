@@ -1,0 +1,13 @@
+@import "../config/colors.css";
+
+.board {
+    padding: 10px;
+    background-color: var(--light_black);
+    margin: 20px;
+}
+
+.row {
+    display: flex;
+    flex-direction: row;
+}
+

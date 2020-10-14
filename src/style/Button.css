@@ -1,0 +1,11 @@
+.level-button {
+    background-color: var(--black);
+    padding: 5px 25px;
+    font-size: 20px;
+    color: white;
+    margin-left: 10px;
+    border: solid transparent;
+    outline: none;
+    cursor: pointer;
+}
+
